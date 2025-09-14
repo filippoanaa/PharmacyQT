@@ -26,5 +26,4 @@ user interface (GUI) implemented using Qt, with the use of the Observer Pattern 
 - **Service** – Application logic
 - **UI** – User interface (console and GUI)
 
-## Demo
-[Video here](https://youtu.be/v2OwC-wIFdU)
+
